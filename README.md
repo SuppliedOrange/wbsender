@@ -2,7 +2,7 @@
 
 Send webhooks through a website. Real innovative, I know.
 <br>
-This is my first website. I used bootstrap, primarily.
+This is my first website. I primarily used bootstrap so this took me only a couple of days.
 <br>
 Sorry not sorry for the cluttered javascript.
 
