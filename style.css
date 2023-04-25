@@ -1,0 +1,57 @@
+#main {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding-right: 15%;
+    padding-left: 15%;
+    height: 100vh;
+}
+
+#logo {
+    max-height: 100px;
+    max-width: 100px;
+    align-self: right;
+}
+
+.customtooltip {
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-size: 13px;
+}
+
+.btn {
+    max-width: 100%;
+}
+
+.customtooltip.error {
+    background-color: #940000;
+    color: white;
+}
+
+.customtooltip.success {
+    background-color: #206600;
+    color: white;
+}
+
+#send-progress {
+    height: 10px;
+}
+
+#navbar {
+    position: absolute;
+    z-index: 1;
+}
+
+.nav-item {
+    position: relative;
+    bottom: 0px;
+    transition: bottom ease 0.5s;
+}
+
+.nav-item:hover {
+    bottom: -4px;
+}
+
+.pfp {
+    max-width: 35px;
+    max-height: 35px;
+}
