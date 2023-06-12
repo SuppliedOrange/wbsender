@@ -8,3 +8,6 @@ Sorry not sorry for the cluttered javascript.
 
 ## Note
 Imgur does not like localhost addresses. Access the site via your IP address or something else to avoid problems.
+
+## Visit it
+https://suppliedorange.github.io/wbsender/
